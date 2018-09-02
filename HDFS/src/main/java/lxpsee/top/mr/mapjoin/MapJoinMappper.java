@@ -1,4 +1,4 @@
-package main.java.lxpsee.top.mr.mapjoin;
+package lxpsee.top.mr.mapjoin;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FSDataInputStream;

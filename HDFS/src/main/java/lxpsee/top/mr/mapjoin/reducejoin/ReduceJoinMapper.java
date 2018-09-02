@@ -1,4 +1,4 @@
-package main.java.lxpsee.top.mr.mapjoin.reducejoin;
+package lxpsee.top.mr.mapjoin.reducejoin;
 
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.NullWritable;

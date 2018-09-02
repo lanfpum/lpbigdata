@@ -1,4 +1,4 @@
-package main.java.lxpsee.top.mr.dbwc;
+package lxpsee.top.mr.dbwc;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.io.IntWritable;

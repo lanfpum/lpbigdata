@@ -1,4 +1,4 @@
-package main.java.lxpsee.top.mr.compression;
+package lxpsee.top.mr.compression;
 
 import com.hadoop.compression.lzo.LzoCodec;
 import org.apache.hadoop.conf.Configuration;

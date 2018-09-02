@@ -1,4 +1,4 @@
-package main.java.lxpsee.top.mr.utils;
+package lxpsee.top.mr.utils;
 
 import java.lang.management.ManagementFactory;
 import java.net.InetAddress;

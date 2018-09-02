@@ -1,4 +1,4 @@
-package main.java.lxpsee.top.mr.localwc.skew.solve;
+package lxpsee.top.mr.localwc.skew.solve;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;

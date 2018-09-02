@@ -1,4 +1,4 @@
-package main.java.lxpsee.top.mr.secondarysort;
+package lxpsee.top.mr.secondarysort;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;

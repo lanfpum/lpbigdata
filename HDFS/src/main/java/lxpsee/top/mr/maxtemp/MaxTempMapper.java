@@ -1,4 +1,4 @@
-package main.java.lxpsee.top.mr.maxtemp;
+package lxpsee.top.mr.maxtemp;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.LongWritable;

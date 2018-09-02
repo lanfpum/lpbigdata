@@ -1,4 +1,4 @@
-package main.java.lxpsee.top.mr.allsort;
+package lxpsee.top.mr.allsort;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.mapreduce.Mapper;

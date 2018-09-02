@@ -1,4 +1,4 @@
-package main.java.lxpsee.top.mr.localwc;
+package lxpsee.top.mr.localwc;
 
 import lxpsee.top.mr.utils.Util;
 import org.apache.hadoop.io.IntWritable;

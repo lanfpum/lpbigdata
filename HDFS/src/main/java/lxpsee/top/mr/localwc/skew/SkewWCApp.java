@@ -1,4 +1,4 @@
-package main.java.lxpsee.top.mr.localwc.skew;
+package lxpsee.top.mr.localwc.skew;
 
 import lxpsee.top.mr.localwc.WCMapper;
 import lxpsee.top.mr.localwc.WCReducer;

@@ -1,4 +1,4 @@
-package main.java.lxpsee.top.mr.multiinput;
+package lxpsee.top.mr.multiinput;
 
 import lxpsee.top.mr.localwc.WCReducer;
 import org.apache.hadoop.conf.Configuration;

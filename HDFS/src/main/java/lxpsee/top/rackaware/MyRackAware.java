@@ -1,4 +1,4 @@
-package main.java.lxpsee.top.rackaware;
+package lxpsee.top.rackaware;
 
 import org.apache.hadoop.net.DNSToSwitchMapping;
 

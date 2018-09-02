@@ -1,4 +1,4 @@
-package main.java.lxpsee.top.mr.localwc.skew.solve;
+package lxpsee.top.mr.localwc.skew.solve;
 
 import lxpsee.top.mr.localwc.WCReducer;
 import org.apache.hadoop.conf.Configuration;

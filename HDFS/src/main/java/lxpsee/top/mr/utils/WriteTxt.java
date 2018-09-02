@@ -1,4 +1,4 @@
-package main.java.lxpsee.top.mr.utils;
+package lxpsee.top.mr.utils;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileSystem;

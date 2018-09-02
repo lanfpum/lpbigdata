@@ -1,4 +1,4 @@
-package main.java.lxpsee.top.mr.mapjoin.reducejoin;
+package lxpsee.top.mr.mapjoin.reducejoin;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;

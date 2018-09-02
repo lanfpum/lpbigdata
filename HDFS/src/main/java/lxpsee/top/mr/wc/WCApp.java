@@ -1,4 +1,4 @@
-package main.java.lxpsee.top.mr.wc;
+package lxpsee.top.mr.wc;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
