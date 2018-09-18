@@ -5,14 +5,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>lxpsee.top</groupId>
-    <artifactId>lpbigdata</artifactId>
+    <artifactId>HBaseDemo</artifactId>
     <version>1.0-SNAPSHOT</version>
+
     <dependencies>
         <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>4.10</version>
+            <groupId>org.apache.hbase</groupId>
+            <artifactId>hbase-client</artifactId>
+            <version>1.2.6</version>
         </dependency>
-    </dependencies>
 
+    </dependencies>
 </project>
