@@ -17,7 +17,7 @@ public class ZKTest {
      */
     @Test
     public void test() throws Exception {
-        ZooKeeper zooKeeper = new ZooKeeper("192.168.68.201:2181,192.168.68.202:2181,192.168.68.203:2181", 5000, null);
+        ZooKeeper zooKeeper = new ZooKeeper("192.168.217.201:2181,192.168.217.202:2181,192.168.217.203:2181", 5000, null);
         List<String> list = zooKeeper.getChildren("/a", null);
 
         for (String s : list) {
