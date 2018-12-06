@@ -30,8 +30,8 @@ public class TestRowKey {
         Connection connection = ConnectionFactory.createConnection(configuration);
         Table table = connection.getTable(TableName.valueOf("ns1:calllogs"));
 
-        String callerId = "13211112222";
-        String calleeId = "14511112222";
+        String callerId = "18011112222";
+        String calleeId = "13100001111";
 
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyyMMddHHmmss");
         String callTime = simpleDateFormat.format(new Date());
